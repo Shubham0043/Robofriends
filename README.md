@@ -1,6 +1,6 @@
 # Robofriends
 
-This proect is demo version of a web infornmation display app.There can be many more improvements.
+This project is demo version of a web infornmation display app.There can be many more improvements.
 Stack:
 1.React
 2.Javascript
