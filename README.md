@@ -7,3 +7,4 @@ Stack:
 3.CSS
 4.HTML
 Purpose to create is help connect a local community.
+Any suggestions are welcome...
